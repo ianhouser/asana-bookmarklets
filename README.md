@@ -1,6 +1,6 @@
 # Asana bookmarklets
 
-Drag and drop links below to your browser bookmark bar.
+Drag and drop links below to your browser bookmark bar, then navigate to an Asana page and click the bookmark to make the magic happen.
 For details, please see [this forum topic](https://forum.asana.com/t/introduction-to-asana-bookmarklets/184620).
 
 --- 1. Expand and Collapse Asana Sidebar
