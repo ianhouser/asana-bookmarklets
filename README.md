@@ -5,7 +5,7 @@ For details, please see [this forum topic](https://forum.asana.com/t/introductio
 
 ### 1. Expand and Collapse Asana Sidebar
 
--Toggle expansion: <a href="javascript:(function(){ var desiredWidth = '480px'; if (document.querySelector('.AsanaMain-sidebar').style.width != desiredWidth){document.querySelector('.AsanaMain-sidebar').style.width='480px'}else{document.querySelector('.AsanaMain-sidebar').style.width='240px'}})();">Expand Sidebar</a>
+-Toggle expansion: <a href="javascript:(function(){ var desiredWidth = '480px'; if (document.querySelector('.AsanaMain-sidebar').style.width != desiredWidth){document.querySelector('.AsanaMain-sidebar').style.width='480px'}else{document.querySelector('.AsanaMain-sidebar').style.width='240px'}})();">▶Expand Sidebar</a>
 
 Note: If you'd like to customize the width of the expansion, simply change the `480px` in the beginning variable: `var desiredWidth = '480px';` 
 
